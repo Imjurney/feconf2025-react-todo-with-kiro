@@ -1,7 +1,7 @@
-# 햐
+# React Todo List 애플리케이션 with KIRO
 
 2025 FEConf showCase를 위해 제작되었습니다.
-100% KIRO의 Spec모드를 이용하여 진행했으며, React와 TypeScript를 사용하여 구축된 간단하고 효율적인 할 일 목록 관리 애플리케이션입니다.
+100% KIRO의 Spec모드를 이용하여 진행했으며,React와 TypeScript를 사용하여 구축된 간단하고 효율적인 할 일 목록 관리 애플리케이션입니다.
 
 ## 🚀 주요 기능
 
@@ -17,7 +17,7 @@
 
 - **Frontend**: React 19, TypeScript
 - **Build Tool**: Vite
-- **Styling**: TailwindCSS
+- **Styling**: TailwindCSS, CSS3
 - **Testing**: Vitest, React Testing Library
 - **Code Quality**: ESLint, TypeScript
 
