@@ -15,9 +15,9 @@
 
 ## 🛠️ 기술 스택
 
-- **Frontend**: React 18, TypeScript
+- **Frontend**: React 19, TypeScript
 - **Build Tool**: Vite
-- **Styling**: TailwindCSS, CSS3
+- **Styling**: TailwindCSS
 - **Testing**: Vitest, React Testing Library
 - **Code Quality**: ESLint, TypeScript
 
