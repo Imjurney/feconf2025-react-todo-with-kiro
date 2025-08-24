@@ -1,8 +1,17 @@
-# React Todo List 애플리케이션 with KIRO
 
+
+# React Todo List 애플리케이션 with KIRO
 2025 FEConf showCase를 위해 제작되었습니다.
 100% KIRO의 Spec모드를 이용하여 진행했으며,React와 TypeScript를 사용하여 구축된 간단하고 효율적인 할 일 목록 관리 애플리케이션입니다.
 
+
+# 부록
+2025 FEConf showCase에 공개된 KIRO 시연 영상
+https://github.com/user-attachments/assets/1537aa0b-f033-42b9-be16-2e501737edb8
+
+[KIRO spec모드로만 만든 KIRO 소개 페이지](https://main.d3tm0e6y3kjvtp.amplifyapp.com/)
+
+[Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
 ## 🚀 주요 기능
 
 - ✅ **할 일 추가**: 새로운 할 일을 쉽게 추가할 수 있습니다
