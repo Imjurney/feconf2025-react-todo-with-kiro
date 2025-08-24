@@ -7,6 +7,7 @@
 
 # 부록
 2025 FEConf showCase에 공개된 KIRO 시연 영상
+
 https://github.com/user-attachments/assets/1537aa0b-f033-42b9-be16-2e501737edb8
 
 [KIRO spec모드로만 만든 KIRO 소개 페이지](https://main.d3tm0e6y3kjvtp.amplifyapp.com/)
